@@ -11,3 +11,7 @@ criar arquivo:
 editar arquivo:
 	notepad nome_do_arquivo.py
 			isso abrirá o arquivo py num bloco de notas
+
+
+https://www.doaction.com.br/pt-br/blog/como-corrigir-o-erro-support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead
+corrigir o erro Support for password authentication was removed
