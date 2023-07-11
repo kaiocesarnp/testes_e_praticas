@@ -1,5 +1,6 @@
 PROGRAMAR PYTHON PELO CMD:
 
+instalar o python pela store;
 criar o diretório no github;
 instalar o git portable e abra o git-bash;
 clonar o diretório remoto para o local;
@@ -10,4 +11,3 @@ criar arquivo:
 editar arquivo:
 	notepad nome_do_arquivo.py
 			isso abrirá o arquivo py num bloco de notas
-
