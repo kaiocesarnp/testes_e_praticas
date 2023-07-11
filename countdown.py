@@ -14,7 +14,7 @@ t = input('Enter the time in seconds: ')
 
 countdown(int(t))
 
-Explicação linha à linha:
+#Explicação linha à linha:
 
 #import time: Importa o módulo time do Python, que fornece funcionalidades relacionadas ao tempo.
 
