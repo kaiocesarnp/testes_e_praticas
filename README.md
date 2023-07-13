@@ -8,4 +8,4 @@ adivinhe_num.py > Este é um jogo simples de adivinhação em Python, onde o pro
 
 countdown.py > Este é um programa simples em Python que realiza uma contagem regressiva a partir de um determinado número de segundos fornecido pelo usuário.
 
-password.py > 
+password.py > Este código é um gerador de senhas escrito em Python. Ele gera uma quantidade especificada de senhas com um comprimento também especificado.
