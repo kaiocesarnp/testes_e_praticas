@@ -4,6 +4,8 @@ Obs: Todos os projetos desenvolvidos utilizando cmd e notepad, sem o uso de um I
 
 Projetos:
 
-adivinhe_num.py > Este é um jogo simples de adivinhação em Python, onde o programa gera um número aleatório entre 1 e um limite superior 
-fornecido pelo usuário. O jogador deve tentar adivinhar o número correto.
+adivinhe_num.py > Este é um jogo simples de adivinhação em Python, onde o programa gera um número aleatório entre 1 e um limite superior  fornecido pelo usuário. O jogador deve tentar adivinhar o número correto.
 
+countdown.py > Este é um programa simples em Python que realiza uma contagem regressiva a partir de um determinado número de segundos fornecido pelo usuário.
+
+password.py > 
