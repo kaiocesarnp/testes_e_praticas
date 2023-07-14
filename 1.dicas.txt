@@ -5,6 +5,7 @@ criar o diretório no github;
 instalar o git portable e abra o git-bash;
 clonar o diretório remoto para o local;
 
+(passos no cmd):
 criar arquivo:
 	echo.>nome_do_arquivo.py
 
