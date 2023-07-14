@@ -8,6 +8,8 @@ adivinhe_num.py > Este é um jogo simples de adivinhação em Python, onde o pro
 
 countdown.py > Este é um programa simples em Python que realiza uma contagem regressiva a partir de um determinado número de segundos fornecido pelo usuário.
 
+mastermind.py > Jogo de adivinhação em que o jogador tenta adivinhar um número de 4 dígitos gerado aleatoriamente. O objetivo do jogo é adivinhar o número correto no menor número de tentativas possível.
+
 password.py > Este código é um gerador de senhas escrito em Python. Ele gera uma quantidade especificada de senhas com um comprimento também especificado.
 
-mastermind.py > Jogo de adivinhação em que o jogador tenta adivinhar um número de 4 dígitos gerado aleatoriamente. O objetivo do jogo é adivinhar o número correto no menor número de tentativas possível.
+powers.py > Este código permite ao usuário inserir quatro valores de poder (entre 0 e 9) e os exibe em ordem crescente. 
