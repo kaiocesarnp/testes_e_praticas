@@ -4,11 +4,11 @@ Obs: Todos os projetos desenvolvidos utilizando cmd e notepad, sem o uso de um I
 
 Projetos:
 
+Pasta html_css > testes com html e css através do cmd.
+
 adivinhe_num.py > Este é um jogo simples de adivinhação em Python, onde o programa gera um número aleatório entre 1 e um limite superior  fornecido pelo usuário. O jogador deve tentar adivinhar o número correto.
 
 countdown.py > Este é um programa simples em Python que realiza uma contagem regressiva a partir de um determinado número de segundos fornecido pelo usuário.
-
-index.html > teste de html com css pelo cmd.
 
 mastermind.py > Jogo de adivinhação em que o jogador tenta adivinhar um número de 4 dígitos gerado aleatoriamente. O objetivo do jogo é adivinhar o número correto no menor número de tentativas possível.
 
