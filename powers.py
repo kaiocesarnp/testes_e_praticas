@@ -1,3 +1,4 @@
+print("Defina quatro valores de poder:")
 num_powers = 4
 powers = []
 
